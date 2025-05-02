@@ -37,7 +37,7 @@ class Example extends Phaser.Scene
         this.chorGroup.refresh();
 
         // Display chor count on the screen
-        this.text = this.add.text(10, 10, 'Cheese Collected: 0', { font: '28px Courier', fill: '#ffffff' });
+        this.text = this.add.text(10, 10, 'Chor Catched: 0', { font: '28px Courier', fill: '#ffffff' });
 
         // Display your name on screen
         this.add.text(10, 570, 'Created by Divya', { font: '20px Courier', fill: '#ffffff' });
