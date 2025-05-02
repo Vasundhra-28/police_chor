@@ -81,7 +81,7 @@ class Example extends Phaser.Scene
 
         // Increase chor count
         this.chorCount++;
-        this.text.setText(`Cheese Collected: ${this.chorCount}`);
+        this.text.setText(`Chor Catched: ${this.chorCount}`);
     }
 }
 
